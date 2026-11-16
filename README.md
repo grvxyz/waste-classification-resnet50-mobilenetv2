@@ -1,5 +1,4 @@
-# REKLE — Rebuild Eksperimen dari Lima Dataset Sumber Asli
-
+# REKLE 
 Notebook ini membangun ulang eksperimen klasifikasi sampah menggunakan **MobileNetV2** vs **ResNet50** dengan lima dataset sumber asli dari Kaggle. Proyek ini menggabungkan lima sumber data yang berbeda, membersihkan data, mengatasi duplikasi, dan melatih dua arsitektur model untuk performa optimal dalam klasifikasi sampah.
 
 ## 📋 Daftar Isi
