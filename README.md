@@ -313,8 +313,3 @@ Notebook menghasilkan artifact berikut:
 
 Untuk pertanyaan atau feedback tentang eksperimen ini, silakan buka issue atau diskusi terkait.
 
----
-
-**Last Updated:** November 2026  
-**Notebook Version:** Revisi_JAIC_final.ipynb  
-**Status:** Production Ready ✅
